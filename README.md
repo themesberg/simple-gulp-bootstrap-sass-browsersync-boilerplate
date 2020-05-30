@@ -11,9 +11,10 @@
 
 ## Useful Links
 
-- [More themes](https://themesberg.com/themes?ref=github-pixel-lite-bootstrap) from Themesberg
-- [Free themes](https://themesberg.com/products/free-themes?ref=github-pixel-lite-bootstrap) from Themesberg
-- [Affiliate Program](https://themesberg.com/affiliate?ref=github-pixel-lite-bootstrap)
+- [Themesberg Blog](https://themesberg.com/blog?ref=tutorial-gulp-4-bootstrap-sass-browsersync)
+- [Themes](https://themesberg.com/themes?ref=tutorial-gulp-4-bootstrap-sass-browsersync) from Themesberg
+- [Free themes](https://themesberg.com/products/free-themes?ref=tutorial-gulp-4-bootstrap-sass-browsersync) from Themesberg
+- [Affiliate Program](https://themesberg.com/affiliate?ref=tutorial-gulp-4-bootstrap-sass-browsersync)
 
 ##### Social Media
 
