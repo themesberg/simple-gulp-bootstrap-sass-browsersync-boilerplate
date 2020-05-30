@@ -1,5 +1,7 @@
 # Project files for the [Gulp 4, Bootstrap, Sass and BrowserSync setup tutorial on Themesberg](https://themesberg.com/blog/tutorial/gulp-4-bootstrap-sass-browsersync)
 
+![Tutorial Gulp 4, Bootstrap, Sass and BrowserSync](https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gulp-4-bootstrap-browsersync-sass-tutorial-themesberg.jpg)
+
 ## Getting started
 
 1. Git clone or download the project files
