@@ -1,0 +1,19 @@
+{
+  "name": "gulp-4-bootstrap-sass-browsersync-tutorial",
+  "version": "1.0.0",
+  "description": "Project files for the tutorial on Themesberg",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
